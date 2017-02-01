@@ -1,0 +1,19 @@
+{
+  "name": "remindyourself",
+  "version": "1.0.0",
+  "description": "remindyourself writen by electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zertu/remindyourself.git"
+  },
+  "author": "zertu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zertu/remindyourself/issues"
+  },
+  "homepage": "https://github.com/Zertu/remindyourself#readme"
+}
