@@ -1,0 +1,14 @@
+#add{}
+#add2list{
+    color: #66FFFF;
+    display:inline-block;
+    padding:3px;
+    background: #999999;
+    border-radius: 3px;
+    width:40px;
+    text-align: center;
+    cursor: pointer
+}
+li{
+    list-style: none;
+}
